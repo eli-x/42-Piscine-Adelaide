@@ -2,7 +2,9 @@ The very FIRST 42 Piscine in Australia.
 
 26 days of joy and frustraion and occasional epiphany.
 
-@Adelaide. I do love this city and the people more after the Piscine.
+@Adelaide. From 21 June 2021 to 16 July 2021.
+
+I do love this city and the people more after the Piscine.
 
 From memory:
 
