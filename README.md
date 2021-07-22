@@ -1,4 +1,4 @@
-The very first 42 Piscine in Australia. 
+The very FIRST 42 Piscine in Australia. 
 
 26 days of joy and frustraion and occasional epiphany.
 
@@ -6,9 +6,12 @@ The very first 42 Piscine in Australia.
 
 From memory:
 
-C09/ex02/ft_split.c not completed
-C08/ex05/ both version of ft_show_tab.c did not pass moulinette, showing 'Segmentation fault'
-C01/ex08/ft_sort_int_tab.c KOed by moulinette
-C00/ex08/ft_print_combn.c not completed
+💫 C09/ex02/ft_split.c not completed
 
-and yes, I sometimes left my main.c there only for handy reference. Do not ever hand in work that is not mentioned by the "holy bible"!
+💫 C08/ex05/ both version of ft_show_tab.c did not pass moulinette, showing 'Segmentation fault'
+
+💫 C01/ex08/ft_sort_int_tab.c KOed by moulinette
+
+💫 C00/ex08/ft_print_combn.c not completed
+
+And yes, I sometimes left my main.c there only for handy reference. Do not ever hand in work that is not mentioned by the "holy bible"!
